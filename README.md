@@ -1,6 +1,27 @@
 # vue/dingcang
 这是一款基于vue2.0的订餐系统
 
+# 目录树
+```
+├─build
+├─config
+├─resource
+│  ├─img
+│  ├─PSD
+│  ├─SVG
+│  └─标注
+├─src
+│  ├─common
+│  │  └─fonts
+│  └─components
+│      ├─goods
+│      ├─header
+│      ├─seller
+│      └─star
+└─static
+    └─css
+```
+
 # 运行教程
 首先，列出来我们需要的东西：  
 node.js环境（npm包管理器）
