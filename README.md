@@ -47,9 +47,9 @@ npm包管理器，是集成在node中的，所以，直接输入 npm -v就会如
 在项目目录中，运行命令 npm run dev ，会用热加载的方式运行我们的应用，热加载可以让我们在修改完代码后不用手动刷新浏览器就能实时看到修改后的效果。
 
 ### 运行结果
-![image-w150](resource/shangping.jpg)
-![image-w150](resource/xiangqing.jpg)
-![image-w150](resource/shangjia.jpg)
-![image-w150](resource/gonggao.jpg)
-![image-w150](resource/gouwuche.jpg)
-![image-w150](resource/pingjia.jpg)
+![img-w150](resource/shangping.jpg)
+![img-w150](resource/xiangqing.jpg)
+![img-w150](resource/shangjia.jpg)
+![img-w150](resource/gonggao.jpg)
+![img-w150](resource/gouwuche.jpg)
+![img-w150](resource/pingjia.jpg)
